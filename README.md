@@ -1,4 +1,3 @@
-# ahandyvisualdjangotutorial-
 # Wellcome to A Handy, Visual Django Tutorial
 
 You should probably agree with me that writing your first Django App is not an intuitive task, right? I will show you how to simplify that.
